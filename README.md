@@ -7,15 +7,6 @@ This project focuses on refactoring the provided code and adjusting it to create
 
 Through this project I've learned about many key aspects of Web Development. I learned the importance of semantic HTML elements and the difference compared to non-semantic elements. I also learned how HTML features such as logical page structure, element attributes, and even styling can all play an important role in making a site more accessable. I also learned the role that accessability has in terms of improving SEO and how by making a site more accessible it "helps search engine algorithms understand the content better and improve searchability". [^1]
 
-## Index
-    - Installation
-    - Usage
-    - License
-
-## Installation
-
-## Usage
-
 ## License
 MIT
 
